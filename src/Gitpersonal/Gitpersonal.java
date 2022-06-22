@@ -6,7 +6,7 @@ public class Gitpersonal {
 		
 		int a = 10;
 		int b = 12;
-		int c = a+b;
+		int c = a-b;
 		System.out.println(c);
 
 	}
